@@ -94,7 +94,7 @@ This project helped strengthen my understanding of:
 PGDM (Business Analytics & Marketing)
 Lloyd Business School
 
-Data Science Intern
+Data Scientist
 Celebal Technologies
 
 ## Note
