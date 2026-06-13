@@ -89,7 +89,7 @@ This project helped strengthen my understanding of:
 
 ## Author
 
-**Devratan Kumar**
+**Devratan**
 
 PGDM (Business Analytics & Marketing)
 Lloyd Business School
