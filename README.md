@@ -1,12 +1,12 @@
-# Tesla Deliveries Analysis and Forecasting
+# 🚗 Tesla Deliveries Analysis and Forecasting
 
 This repository contains my Week 2 Machine Learning Foundation assignment completed as part of the Celebal Technologies Internship Program.
 
-## Project Overview
+## 📌 Project Overview
 
 This project analyzes Tesla deliveries data from 2015 to 2025 using Python and Machine Learning techniques. The analysis includes data cleaning, exploratory data analysis (EDA), feature engineering, predictive modeling, time series validation, and forecasting to understand delivery patterns and estimate future deliveries.
 
-## Objectives
+## 🎯 Objectives
 
 * Explore the Tesla deliveries dataset
 * Perform data cleaning and quality checks
@@ -17,7 +17,7 @@ This project analyzes Tesla deliveries data from 2015 to 2025 using Python and M
 * Perform an Augmented Dickey-Fuller (ADF) test for stationarity
 * Generate forecasted delivery estimates
 
-## Tools and Libraries Used
+## 🛠️ Tools and Libraries Used
 
 * Python
 * Google Colab
@@ -28,7 +28,7 @@ This project analyzes Tesla deliveries data from 2015 to 2025 using Python and M
 * Scikit-Learn
 * Statsmodels
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 ML-Foundation-Week-2-Tesla-Deliveries-Analysis/
@@ -38,7 +38,7 @@ ML-Foundation-Week-2-Tesla-Deliveries-Analysis/
 └── README.md
 ```
 
-## Workflow Followed
+## 🔄 Workflow Followed
 
 1. Import required libraries
 2. Load and inspect the dataset
@@ -55,26 +55,26 @@ ML-Foundation-Week-2-Tesla-Deliveries-Analysis/
 13. Generate forecast results
 14. Present final insights and conclusions
 
-## Results
+## 📈 Results
 
-### Linear Regression
+### 🚀 Linear Regression
 
 * R² Score: 0.9862
 
-### Time Series Cross-Validation
+### 🔄 Time Series Cross-Validation
 
 * Mean R² Score: 0.9886
 
-### Random Forest
+### 🌲 Random Forest
 
 * Hyperparameter tuning performed using GridSearchCV
 * Competitive predictive performance achieved
 
-### Stationarity Test
+### 📉 Stationarity Test
 
 * ADF Test confirmed the time series is stationary (p-value < 0.05)
 
-## Key Learning Outcomes
+## 📚 Key Learning Outcomes
 
 This project helped strengthen my understanding of:
 
@@ -87,16 +87,13 @@ This project helped strengthen my understanding of:
 * Forecasting concepts
 * Model comparison and interpretation
 
-## Author
+## 👨‍💻 Author
 
-**Devratan**
+Devratan  
+PGDM (Business Analytics) 
+Lloyd Business School  
+Data Scientist, Celebal Technologies
 
-PGDM (Business Analytics & Marketing)
-Lloyd Business School
-
-Data Scientist
-Celebal Technologies
-
-## Note
+## 📝 Note
 
 This repository has been created for academic submission and learning purposes as part of the Machine Learning Foundation Program at Celebal Technologies.
